@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except these
+!index.html
+!README.md
+!.gitignore
